@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack://src/components/FeedbackOptions/FeedbackOptions.module.css"],"names":[],"mappings":"AAAA,kCACE,gBAAiB,CACjB,eACF","file":"main.c09401ab.chunk.css","sourcesContent":[".secondBtn {\r\n  margin-right: 5px;\r\n  margin-left: 5px;\r\n}\r\n"]}
